@@ -1,5 +1,7 @@
 # Faked-Plus
 
+![GitHub all releases](https://img.shields.io/github/downloads/Insulting-Pros/FakedPlus/total)
+
 Advanced Faked Players mutator for KF 1.
 
 ## Installation
